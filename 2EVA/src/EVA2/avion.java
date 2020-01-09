@@ -8,7 +8,7 @@ public class avion {
 	int queroseno=0;
 	String compania="";
 	String estado="";
-	/*esto es un comentariooooooooooooo*/
+	/*esto es un comentarioooooooooopooooooo*/
 	public avion(String nombre, int matricula, int numeroPasajeros, int queroseno, String compania, String estado) {
 		super();
 		this.nombre = nombre;
